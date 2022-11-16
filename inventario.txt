@@ -1,0 +1,4 @@
+manzanas:30:6
+platanos:40:7
+mango:50:8
+peras:20:5
